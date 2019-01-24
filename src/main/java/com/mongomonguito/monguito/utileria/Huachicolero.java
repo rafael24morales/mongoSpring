@@ -29,7 +29,7 @@ public class Huachicolero {
 
     private String rfc;
 
-
-    private List<Ducto> ductos;
+    private Gasolinera gasolinera;
+    private List<Ducto> ducto;
 
 }
